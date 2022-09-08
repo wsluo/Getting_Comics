@@ -1,5 +1,6 @@
 # Comics @ UCSD Libraries
 
+### Quick Links
 [Geisel Search](https://library.ucsd.edu/)  
 [Circuit](http://circuit.sdsu.edu/) ([UCSD Library Announcement](https://library.ucsd.edu/news-events/ucsd-rejoins-circuit/))  
 [Online Collection](https://search-library.ucsd.edu/discovery/search?query=lds04%2Cexact%2CAlexander%20Street%20Press%20(UCSD).%20Underground%20and%20independent%20comics%2C%20comix%2C%20and%20graphic%20novels%20online%20monographs.%2CAND&search_scope=ArticlesBooksEtc&vid=01UCS_SDI%3AUCSD&mode=advanced&offset=0&came_from=pagination_1_2)  
@@ -220,7 +221,7 @@ To the heart of the storm ([Geisel](https://search-library.ucsd.edu/permalink/01
 The Plot: The Secret Story of the Protocols of the Elders of Zion ([Geisel](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma991022932299706535
 ))  
 ### Other
-Alan Moore: From Hell ([Online](https://search.alexanderstreet.com/lti/view/work/bibliographic_entity%7Ccomic_book%7C2099498))
+Alan Moore: From Hell ([Online](https://search.alexanderstreet.com/lti/view/work/bibliographic_entity%7Ccomic_book%7C2099498))  
 The Wolverton Bible ([Online](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma991002781479706535
 ))  
 Harvey Kurtzman's Jungle Book ([Online](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma991002779089706535
