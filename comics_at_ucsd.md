@@ -1,11 +1,8 @@
 # Comics @ UCSD Libraries
 
-[Geisel Search](https://library.ucsd.edu/)
-
-[Circuit](http://circuit.sdsu.edu/) ([UCSD Library Announcement](https://library.ucsd.edu/news-events/ucsd-rejoins-circuit/))
-
-[Online Collection](https://search-library.ucsd.edu/discovery/search?query=lds04%2Cexact%2CAlexander%20Street%20Press%20(UCSD).%20Underground%20and%20independent%20comics%2C%20comix%2C%20and%20graphic%20novels%20online%20monographs.%2CAND&search_scope=ArticlesBooksEtc&vid=01UCS_SDI%3AUCSD&mode=advanced&offset=0&came_from=pagination_1_2)
-
+[Geisel Search](https://library.ucsd.edu/)  
+[Circuit](http://circuit.sdsu.edu/) ([UCSD Library Announcement](https://library.ucsd.edu/news-events/ucsd-rejoins-circuit/))  
+[Online Collection](https://search-library.ucsd.edu/discovery/search?query=lds04%2Cexact%2CAlexander%20Street%20Press%20(UCSD).%20Underground%20and%20independent%20comics%2C%20comix%2C%20and%20graphic%20novels%20online%20monographs.%2CAND&search_scope=ArticlesBooksEtc&vid=01UCS_SDI%3AUCSD&mode=advanced&offset=0&came_from=pagination_1_2)  
 [Alexander Street Comics](https://search.alexanderstreet.com/comx)
 
 ### Publishers
