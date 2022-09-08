@@ -272,7 +272,8 @@ Aminder Dhaliwal: Woman World ([Geisel](https://search-library.ucsd.edu/permalin
 ))  
 Abina and the important men : a graphic history ([Geisel](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma991009106519706535
 ))
-
+Kent State : four dead in Ohio ([Geisel](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma991017011299706535
+))  
 Jason Lutes: Berlin (en: [Geisel](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma991016049309706535))  
 Darryl Cunningham: Psychiatric tales ([Geisel](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma991007582889706535
 ))  
