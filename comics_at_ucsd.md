@@ -1,23 +1,30 @@
 # Comics @ UCSD Libraries
 
 [Geisel Search](https://library.ucsd.edu/)
+
 [Circuit](http://circuit.sdsu.edu/) ([UCSD Library Announcement](https://library.ucsd.edu/news-events/ucsd-rejoins-circuit/))
 
 [Online Collection](https://search-library.ucsd.edu/discovery/search?query=lds04%2Cexact%2CAlexander%20Street%20Press%20(UCSD).%20Underground%20and%20independent%20comics%2C%20comix%2C%20and%20graphic%20novels%20online%20monographs.%2CAND&search_scope=ArticlesBooksEtc&vid=01UCS_SDI%3AUCSD&mode=advanced&offset=0&came_from=pagination_1_2)
+
 [Alexander Street Comics](https://search.alexanderstreet.com/comx)
 
 ### Publishers
-https://drawnandquarterly.com/books/
-https://www.fantagraphics.com/collections/all
-https://www.topshelfcomix.com/catalog/
+- https://drawnandquarterly.com/books/
+
+- https://www.fantagraphics.com/collections/all
+
+- https://www.topshelfcomix.com/catalog/
 
 ### Awards
 [Eisner Awards](https://en.wikipedia.org/wiki/List_of_Eisner_Award_winners)
+
 [Eisner - Best Reality Based Work](https://en.wikipedia.org/wiki/Eisner_Award_for_Best_Reality-Based_Work)
 
 
 [Angoulême International Comics Festival Prize for Best Album](https://en.wikipedia.org/wiki/Angoul%C3%AAme_International_Comics_Festival_Prize_for_Best_Album)
+
 [Harvey Awards](https://en.wikipedia.org/wiki/List_of_Harvey_Award_winners)
+
 [Ringo Awards](https://en.wikipedia.org/wiki/Ringo_Awards)
 
 ## Manga
