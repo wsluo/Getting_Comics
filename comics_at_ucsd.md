@@ -271,7 +271,7 @@ The Black Panther Party : a graphic novel history ([Geisel](https://search-libra
 Aminder Dhaliwal: Woman World ([Geisel](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma991016213849706535
 ))  
 Abina and the important men : a graphic history ([Geisel](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma991009106519706535
-))
+))  
 Kent State : four dead in Ohio ([Geisel](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma991017011299706535
 ))  
 Jason Lutes: Berlin (en: [Geisel](https://search-library.ucsd.edu/permalink/01UCS_SDI/ld412s/alma991016049309706535))  
